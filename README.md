@@ -6,3 +6,5 @@ I'm learning to code, starting with Ruby on Rails to get the basics.
 Fun.
 
 I should now be able to push with SSH.
+
+And this app is now deployed to Heroku!
